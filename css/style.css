@@ -1,0 +1,77 @@
+.payment_box.payment_method_wc_stripe_3d_secure input {
+      border: 1px solid #ddd;
+      margin: 5px 0px;
+      padding: 5px;
+      background-color: #fff;
+      outline: 0;
+      box-shadow: none;
+      color: #31325F;
+      font-size: 15px;
+      width: 100%;
+  }
+  .payment_box.payment_method_wc_stripe_3d_secure input::-webkit-input-placeholder { 
+    color: #ced7e1;
+  }
+
+  .payment_box.payment_method_wc_stripe_3d_secure input:-ms-input-placeholder { 
+    color: #ced7e1;
+  }
+
+  .payment_box.payment_method_wc_stripe_3d_secure input::placeholder {
+    color: #ced7e1;
+  }
+.payment_box.payment_method_wc_stripe_3d_secure input {
+      border: 1px solid #ddd;
+      margin: 5px 0px;
+      padding: 5px;
+      background-color: #fff;
+      outline: 0;
+      box-shadow: none;
+      color: #31325F;
+      font-size: 15px;
+      width: 100%;
+  }
+  .payment_box.payment_method_wc_stripe_3d_secure input::-webkit-input-placeholder { 
+    color: #ced7e1;
+  }
+
+  .payment_box.payment_method_wc_stripe_3d_secure input:-ms-input-placeholder { 
+    color: #ced7e1;
+  }
+
+  .payment_box.payment_method_wc_stripe_3d_secure input::placeholder {
+    color: #ced7e1;
+  }
+  .expiration-cvc-sec{
+      display:flex;
+      align-items: center;
+      margin: 0px -8px;
+  }
+  .expiration-cvc-sec .p-GridCell {
+      padding: 0px 8px;
+      width: 50%;
+  }
+  .wc_payment_method .payment_box fieldset {
+    padding: 1.5em;
+    padding-bottom: 0;
+    border: 0;
+    background: none !important;
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px;
+}
+.amex-text{
+      padding-bottom: 44px;
+    color: #747474;
+
+}
+.p-CardForm{
+  padding-left: 0px;
+}
+label.p-FieldLabel.Label.Label--empty {
+    color: #747474;
+    font-weight: 400;
+}
+/*.payment_method_wc_stripe_3d_secure{
+      color: #747474;
+}*/
