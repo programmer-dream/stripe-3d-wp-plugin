@@ -60,4 +60,12 @@ Note:- You don't have to worry about these. These all stuff are already managed 
 
 Use [stripe](https://stripe.com/in) to get required keys.
 
+# Steps to install it
+
+1.  **Clone the plugin**
+git clone https://github.com/programmer-dream/stripe-3d-wp-plugin.git
+
+2. **go into the dir**
+run command composer install
+
 And you are good to go! 
